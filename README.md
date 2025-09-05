@@ -1,8 +1,8 @@
 
-# TopologicalMCTS-ARC
+# Topological-MCTS-ARC
 
 A clean, reproducible scaffold for **Topological MCTS** on ARC-style grid completion tasks.
-It preserves useful logic from the legacy repo where available (see `notebooks/legacy.ipynb` and `src/topomcts/legacy_port.py`) while providing a production-ish layout with experiments, tests, and minimal baselines.
+
 
 ## Quickstart
 
